@@ -14,5 +14,9 @@ function fetchJoke() {
             document.getElementById('joke').innerText = "Failed to load joke!";
         });
     }
+<<<<<<< HEAD
 window.onload = fetchJoke;
+=======
+
+>>>>>>> 16c3f193570f2d033a74f37eedb2be0b177b77be
   
