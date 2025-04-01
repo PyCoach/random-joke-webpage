@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+#joke {
+    font-size: 20px;
+    margin: 20px;
+}
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
